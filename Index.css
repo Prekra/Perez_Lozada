@@ -1,0 +1,54 @@
+
+
+body{
+  
+    background-color: gray;
+}
+
+p{ font-size: 20px;}
+
+
+header{background-color: white;
+
+margin-top: -1em;}
+
+
+table{
+
+    border-color: black ;
+    
+    width: 250px;
+
+    
+
+
+     
+
+}
+
+th{
+
+    color: white;
+
+    font-size: 21px;
+    font-style: italic;
+}
+
+td{
+
+    font-size: 18px;
+
+   
+
+    
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
